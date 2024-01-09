@@ -74,8 +74,8 @@
                                         </select>
                                     </div>
                                     <div class="mb-3">
-                                        <label for="text3" class="form-label">Deskripsi</label>
-                                        <input class="form-control" id="text3" type="text" name="deskripsi" />
+                                        <label for="exampleFormControlTextarea1" class="form-label">Deskripsi</label>
+                                        <textarea class="form-control" name="deskripsi" id="exampleFormControlTextarea1" rows="3"></textarea>
                                     </div>
                                     <div class="mb-3">
                                         <label for="sel1">Semester (select one):</label>
